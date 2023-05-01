@@ -1,0 +1,8 @@
+{
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/ansible.json#/$defs/tasks": [
+      "file:///Users/mac/belajar-vagrant/ansible/roles/nginx/tests/test.yml",
+      "file:///Users/mac/belajar-vagrant/ansible/roles/nginx/tasks/main.yml"
+    ]
+  }
+}

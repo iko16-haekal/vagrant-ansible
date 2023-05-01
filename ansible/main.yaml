@@ -1,0 +1,6 @@
+---
+- name: bootstrap app server
+  hosts: app1
+  become: yes
+  roles:
+    - nginx
